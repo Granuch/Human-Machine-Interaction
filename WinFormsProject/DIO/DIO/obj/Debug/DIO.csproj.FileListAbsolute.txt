@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DIO\DIO\obj\Debug\DIO.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DIO\DIO\obj\Debug\ESP8266ControlApp.Form1.resources
+C:\Users\User\source\repos\DIO\DIO\obj\Debug\DIO.Properties.Resources.resources
+C:\Users\User\source\repos\DIO\DIO\obj\Debug\DIO.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DIO\DIO\obj\Debug\DIO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DIO\DIO\bin\Debug\DIO.exe.config
+C:\Users\User\source\repos\DIO\DIO\bin\Debug\DIO.exe
+C:\Users\User\source\repos\DIO\DIO\bin\Debug\DIO.pdb
+C:\Users\User\source\repos\DIO\DIO\obj\Debug\DIO.exe
+C:\Users\User\source\repos\DIO\DIO\obj\Debug\DIO.pdb
